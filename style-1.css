@@ -132,6 +132,7 @@ header.fl-hdr {
     display: inline-block;
     vertical-align: baseline;
     margin-bottom: 10px;
+    font-family: "Vollkorn-Semibold";
     /*
 		font-family: 'Vollkorn-Semi-Bold';
     */
@@ -166,7 +167,7 @@ header.fl-hdr {
 	padding-top: 23px;
 }
 span.fl-txt-line-bg{
-    font-family: 'OpenSans-Bold';
+    font-family: 'OpenSansBold';
     display: inline-block;
     vertical-align: baseline;
     background-repeat: no-repeat!important;
@@ -221,7 +222,7 @@ span.fl-txt-line-bg{
 
 
 /*
-open sun bold pacche na
+open-sun-bold pacche na
 Vollkorn-Semi-Bold font ta nai
 */
 
