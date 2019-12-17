@@ -35,7 +35,6 @@
 	margin: 0;
 	color: #fff;
 	text-align: center;
-	line-height: 50px;
 	font-family: 'Merriweather-Black';
 }
 .fl-health-risks-head span{
@@ -97,7 +96,6 @@
 	margin: 0;
 	font-family: 'Merriweather-Black';
 	text-align: center;
-	line-height: 50px;
 }
 .plus-our-head h1 span{
 	display: inline-block;
@@ -125,7 +123,6 @@
 	color: #fff;
 	text-align: center;
 	font-family: 'Merriweather-Black';
-	line-height: 48px;
 }
 .profile-show-wrp{
 	padding-top: 20px;
@@ -155,6 +152,8 @@
 	margin: 0;
 	color: #004d8d;
 	font-family: 'Merriweather-Black';
+	font-size: 22px;
+	line-height: 24px;
 }
 .profile-dsc h5{
     margin: 0;
@@ -232,18 +231,25 @@
 	.show-md{
 		display: block!important;
 	}
+	.health-risks-grd-wrp ul{
+		text-align: center;
+	}
 	.health-risks-grd-wrp li {
 	    width: 100%;
 	    max-width: 310px;
+	}
+	.profile-show-inr {
+	    padding: 30px 70px 35px 0;
+	}
+	.out-stock-btm-head h2{
+		font-size: 35px;
+		line-height: 37px;
 	}
 
 }
 
 /*----- max-width 991px -----*/
 @media(max-width: 991px){
-	.health-risks-grd-wrp ul{
-		text-align: center;
-	}
 	.health-risks-grd-wrp li {
 	    width: 100%;
 	    max-width: 355px;
@@ -260,6 +266,13 @@
 	}
 	.out-stock-sec-hdr h2 br{
 		display: none;
+	}
+	.profile-show-inr {
+	    padding: 30px 50px 35px 0;
+	}
+	.out-stock-btm-head h2{
+		font-size: 32px;
+		line-height: 34px;
 	}
 }
 
@@ -279,12 +292,58 @@
 	.health-risks-dsc span{
 		padding-top: 0;
 	}
+	.profile-show-headding h2 br{
+		display: none;
+	}
+	.profile-show-inr {
+	    padding: 30px 10px 35px 0;
+	}
+	.profile-dsc {
+	    padding-left: 80px;
+	    background-position: left 5px top;
+	    background-size: 60px 60px;
+	}
+	.profile-show-inr blockquote{
+		font-size: 20px;
+		line-height: 22px;
+	}
+	.profile-dsc h5{
+		font-size: 18px;
+		line-height: 20px;
+	}
+	.profile-dsc h3{
+		font-size: 20px;
+		line-height: 22px;
+	}
+	.out-stock-btm-head h2{
+		font-size: 30px;
+		line-height: 32px;
+	}
+	.out-stock-sec-hdr h2{
+		line-height: 40px;
+	}
 }
 
 
-/*----- max-width 639 -----*/
-@media(max-width: 639px){
-
+/*----- max-width 575 -----*/
+@media(max-width: 575px){
+	.profile-dsc {
+	    padding-left: 5px;
+	    background-position: left 5px top;
+	    background-size: 60px 60px;
+	    padding-top: 70px;
+	}
+	.profile-show-inr {
+	    padding: 20px 0px 20px 0;
+	}
+	.profile-show-inr blockquote{
+		font-size: 18px;
+		line-height: 20px;
+	}
+	.out-stock-btm-head h2{
+		font-size: 27px;
+		line-height: 29px;
+	}
 }
 
 
