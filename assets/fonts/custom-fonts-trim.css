@@ -1,0 +1,144 @@
+@font-face {
+  font-family: 'Montserrat-Regular';
+  src: url('assets/fonts/Montserrat-Regular/montserrat-regular-webfont.woff2') format('woff2'),
+    url('assets/fonts/Montserrat-Regular/montserrat-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat-Medium';
+  src: url('assets/fonts/Montserrat-Medium/montserrat-medium-webfont.woff2') format('woff2'),
+    url('assets/fonts/Montserrat-Medium/montserrat-medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat-Bold';
+  src: url('assets/fonts/Montserrat-Bold/montserrat-bold-webfont.woff2') format('woff2'),
+    url('assets/fonts/Montserrat-Bold/montserrat-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-BoldItalic';
+  src: url('assets/fonts/Montserrat-BoldItalic/Montserrat-BoldItalic.woff2') format('woff2'),
+    url('assets/fonts/Montserrat-BoldItalic/Montserrat-BoldItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat-SemiBold';
+  src: url('assets/fonts/Montserrat-SemiBold/montserrat-semibold-webfont.woff2') format('woff2'),
+    url('assets/fonts/Montserrat-SemiBold/montserrat-semibold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat-SemiBoldItalic';
+  src: url('assets/fonts/Montserrat-SemiBoldItalic/montserrat-semibolditalic-webfont.woff2') format('woff2'),
+    url('assets/fonts/Montserrat-SemiBoldItalic/montserrat-semibolditalic-webfont.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Barlow-Medium';
+  src: url('assets/fonts/Barlow-Medium/barlow-medium-webfont.woff2') format('woff2'),
+    url('assets/fonts/Barlow-Medium/barlow-medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Barlow-Bold';
+  src: url('assets/fonts/Barlow-Bold/barlow-bold-webfont.woff2') format('woff2'),
+    url('assets/fonts/Barlow-Bold/barlow-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Barlow-ExtraBold';
+  src: url('assets/fonts/Barlow-ExtraBold/barlow-extrabold-webfont.woff2') format('woff2'),
+    url('assets/fonts/Barlow-ExtraBold/barlow-extrabold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'BarlowCondensed-Bold';
+  src: url('assets/fonts/BarlowCondensed-Bold/barlowcondensed-bold-webfont.woff2') format('woff2'),
+    url('assets/fonts/BarlowCondensed-Bold/barlowcondensed-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'BarlowCondensed-Regular';
+  src: url('assets/fonts/BarlowCondensed-Regular/BarlowCondensed-Regular.woff2') format('woff2'),
+    url('assets/fonts/BarlowCondensed-Regular/BarlowCondensed-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OpenSansRegular';
+  src: url('assets/fonts/OpenSansRegular/OpenSansRegular.woff2') format('woff2'),
+    url('assets/fonts/OpenSansRegular/OpenSansRegular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OpenSansBold';
+  src: url('assets/fonts/OpenSansBold/OpenSansBold.woff2') format('woff2'),
+    url('assets/fonts/OpenSansBold/OpenSansBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OpenSansSemibold';
+  src: url('assets/fonts/OpenSansSemibold/OpenSansSemibold.woff2') format('woff2'),
+    url('assets/fonts/OpenSansSemibold/OpenSansSemibold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+@font-face {
+  font-family: 'Vollkorn-Bold';
+  src: url('assets/fonts/Vollkorn-Bold/Vollkorn-Bold.woff2') format('woff2'),
+    url('assets/fonts/Vollkorn-Bold/Vollkorn-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vollkorn-SemiboldItalic';
+  src: url('assets/fonts/Vollkorn-SemiboldItalic/Vollkorn-SemiboldItalic.woff2') format('woff2'),
+    url('assets/fonts/Vollkorn-SemiboldItalic/Vollkorn-SemiboldItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Merriweather-Black';
+  src: url('assets/fonts/Merriweather-Black/Merriweather-Black.woff2') format('woff2'),
+    url('assets/fonts/Merriweather-Black/Merriweather-Black.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
