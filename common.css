@@ -125,6 +125,15 @@
 }
 
 @font-face {
+  font-family: "Vollkorn-Semibold";
+  src: url("assets/fonts/Vollkorn-Semibold/Vollkorn-Semibold.woff") format("woff"),
+    url("assets/fonts/Vollkorn-Semibold/Vollkorn-Semibold.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
   font-family: 'Vollkorn-SemiboldItalic';
   src: url('assets/fonts/Vollkorn-SemiboldItalic/Vollkorn-SemiboldItalic.woff2') format('woff2'),
     url('assets/fonts/Vollkorn-SemiboldItalic/Vollkorn-SemiboldItalic.woff') format('woff');
@@ -206,7 +215,7 @@ img {
   display: none!important
 }
 p { margin-bottom: 26px }
-a { word-wrap: break-word }
+a { word-wrap: break-word } 
 strong { font-weight:normal }
 .plr-30 {
   padding-left: 30px!important;
@@ -233,16 +242,16 @@ strong { font-weight:normal }
   box-shadow: 0 5px 12px 0 rgba(180, 179, 179, 1)
 }
 h1 {
-  font-size: 45px
+  font-size: 45px;
 }
 h2 {
-  font-size: 40px
+  font-size: 40px;
 }
 h3 {
-  font-size: 26px
+  font-size: 26px;
 }
 h4 {
-  font-size: 20px
+  font-size: 20px;
 }
 
 .h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6 {
@@ -257,18 +266,18 @@ h4 {
     .show-md{
       display: block!important;
     }
-/*    h1 {
-      font-size: 60px
+    h1,.fl-pkg-transparent-hdr h1 {
+      font-size: 40px;
     }
-    h2 {
-      font-size: 50px
+    h2,.fl-offering-sec-hdr h2 {
+      font-size: 35px;
     }
     h3 {
-      font-size: 45px
+      font-size: 26px;
     }
     h4 {
-      font-size: 35px
-    }*/
+      font-size: 20px;
+    }
 }
 @media(max-width: 991px){
     .hide-sm{
@@ -277,18 +286,18 @@ h4 {
     .show-sm{
         display: block!important;
     }
-/*    h1 {
-      font-size: 50px
+    h1,.fl-pkg-transparent-hdr h1 {
+      font-size: 35px;
     }
-    h2 {
-      font-size: 45px
+    h2,.fl-offering-sec-hdr h2 {
+      font-size: 30px;
     }
     h3 {
-      font-size: 40px
+      font-size: 26px;
     }
     h4 {
-      font-size: 35px
-    }*/
+      font-size: 20px;
+    }
     p br{
         display: none;
     }
@@ -308,16 +317,17 @@ h4 {
     p{
        margin-bottom: 20px;
     }
-/*    h1 {
-      font-size: 45px
+    h1,.fl-pkg-transparent-hdr h1 {
+      font-size: 32px;
     }
-    h2 {
-      font-size: 40px
+    h2,.fl-offering-sec-hdr h2 {
+      font-size: 28px;
     }
     h3 {
-      font-size: 35px
+      font-size: 25px;
     }
     h4 {
-      font-size: 30px
-    }*/
+      font-size: 20px;
+    }
+
 }
