@@ -19,7 +19,7 @@
 6. https://www.screencast.com/t/UO2ZqXRKW
 	ai header ar bg ta amar section thake idea nite paro. 
 	ami solid bg use korchi r nicher wave img ta crop kore user korchi. 
-	
+
 7. https://www.screencast.com/t/vIEwkwxA
 	i) aikhane kono font ar light italic font use korle milbe maybe
 
@@ -31,7 +31,7 @@
 
 
 
-7. Desktop fix ses hole responsive dekhba
+8. Desktop fix ses hole responsive tane dekhba
 
 
 Responsive

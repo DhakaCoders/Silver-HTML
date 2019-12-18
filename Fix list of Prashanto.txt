@@ -13,11 +13,11 @@
 
 	https://www.screencast.com/t/UwdCjUJr
 	joto 'Sliver Gel' branding ai text ta ache amon dite hobe. tahole break hobena ai 2 ta word.
-	
+
 5. https://www.screencast.com/t/2tQRgyc2u17
 	ai text ta client italic chai. 
 
-6. Desktop fix ses hole responsive dekhba
+6. Desktop fix ses hole responsive tane dekhba
 
 
 Responsive
