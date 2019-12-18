@@ -48,6 +48,9 @@ ager 1 no fix
 
 4. https://www.screencast.com/t/jSb53rFuvn
 	line-height point a daw . line-height: 1.2
+5. https://www.screencast.com/t/DBVlF2pn
+	i) ata aivabe manage korle otota bujay jayna j crop hoiche.
+	ii) ai same ta kore bottom wave positon jsut bolte hobe center bottom,
 
 Responsive
 ---------------
