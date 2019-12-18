@@ -3,7 +3,7 @@
     padding-bottom: 50px;
     position: relative;
     background-repeat: no-repeat !important;
-    background-size: 100% 100% !important;
+    background-size: cover !important;
     background-position: center center !important;
 }
 .top-wave-img {
@@ -12,10 +12,10 @@
     right: 0;
     top: -1px;
     z-index: 1;
-    height: 30px;
+    height: 14px;
     background-size: cover !important;
     background-repeat: no-repeat!important;
-    background-position: center center !important;
+    background-position: center top !important;
 }
 .btm-wave-img {
     position: absolute;
@@ -23,10 +23,10 @@
     right: 0;
     bottom: -1px;
     z-index: 1;
-    height: 30px;
+    height: 14px;
     background-size: cover !important;
     background-repeat: no-repeat!important;
-    background-position: center center !important;
+    background-position: center bottom !important;
 }
 .fl-health-risks-head{
 	padding-bottom: 40px;
@@ -70,7 +70,7 @@
     text-align: center;
     margin-top: 20px;
     font-size: 25px;
-    line-height: 28px;
+    line-height: 1.3;
     color: #fff;
 }
 .health-risks-dsc a{
@@ -83,6 +83,9 @@
 	color: #ff8003;
 	font-family: 'Merriweather-Black';
 	padding-top: 95px;
+}
+.health-risks-dsc a:hover{
+	opacity: 0.5;
 }
 
 
@@ -149,10 +152,10 @@
 	border-bottom: 0;
 }
 .profile-show-inr {
-    padding: 30px 60px 35px 0;
+    padding: 30px 105px 35px 0;
 }
-.profile-show-wrp ul li:nth-child(2) .profile-show-inr{
-	padding-right: 50px;
+.profile-show-wrp ul li:nth-child(2) .profile-show-inr {
+    padding-right: 75px;
 }
 .profile-dsc{
     padding-left: 100px;
@@ -166,7 +169,7 @@
 	color: #004d8d;
 	font-family: 'OpenSansBold';
 	font-size: 22px;
-	line-height: 24px;
+	line-height: 1.2;
 }
 .profile-dsc h5{
     margin: 0;
@@ -182,12 +185,13 @@
 	vertical-align: baseline;
 	color: #bebebe;
 	font-family: 'OpenSansItalic';
+	font-size: 18px;
 }
 .profile-show-inr blockquote {
     padding: 0;
     margin: 0;
     border-left: 0;
-    font-size: 21px;
+    font-size: 20px;
     line-height: 24px;
     padding-top: 5px;
     color: #4c4c4c;
@@ -208,7 +212,7 @@
 	color: #fff;
 	text-align: center;
 	font-family: 'Merriweather-Black';
-	line-height: 50px;
+	line-height: 1.2;
 }
 .out-stock-sec-hdr h2 span{
 	display: inline-block;
@@ -236,17 +240,16 @@
     color: #fff;
     padding-top: 20px;
 }
+.dft-text-btm-module mark.brading-txt,
+.sl-out-stock-sec .dft-text-module mark.brading-txt,
+.fl-health-risks-content mark.brading-txt,
 .sl-out-stock-sec .out-stock-sec-hdr mark.brading-txt,
 .profile-show-headding mark.brading-txt,
 .plus-our-head mark.brading-txt,
 .fl-health-risks-head mark.brading-txt {
-    display: inline-block;
-    vertical-align: baseline;
-    margin: 0;
-    padding: 0;
-    background: transparent;
     color: #fff;
 }
+.sl-out-stock-sec .out-stock-btm-head mark.brading-txt,
 .plus-our-head mark.brading-txt{
 	color: #f15927;
 }
@@ -265,10 +268,6 @@
 	.health-risks-grd-wrp li {
 	    width: 100%;
 	    max-width: 310px;
-	}
-	.out-stock-btm-head h2{
-		font-size: 35px;
-		line-height: 37px;
 	}
 	.profile-show-inr {
 	    padding: 30px 40px 35px 0;
@@ -300,10 +299,6 @@
 	}
 	.out-stock-sec-hdr h2 br{
 		display: none;
-	}
-	.out-stock-btm-head h2{
-		font-size: 32px;
-		line-height: 34px;
 	}
 	.profile-show-inr {
 	    padding: 30px 20px 35px 0;
@@ -355,13 +350,6 @@
 		font-size: 20px;
 		line-height: 22px;
 	}
-	.out-stock-btm-head h2{
-		font-size: 30px;
-		line-height: 32px;
-	}
-	.out-stock-sec-hdr h2{
-		line-height: 40px;
-	}
 }
 
 
@@ -383,9 +371,9 @@
 		font-size: 18px;
 		line-height: 20px;
 	}
-	.out-stock-btm-head h2{
-		font-size: 27px;
-		line-height: 29px;
+	.health-risks-dsc h3 {
+	    font-size: 23px;
+	    line-height: 26px;
 	}
 }
 
