@@ -1,0 +1,41 @@
+1. https://www.screencast.com/t/R6GPQYlnEJ
+	branding text ar jonno amr section thake dekhe nite paro. 
+
+	https://www.screencast.com/t/UwdCjUJr
+	joto 'Sliver Gel' branding ai text ta ache amon dite hobe. tahole break hobena ai 2 ta word.
+
+2. https://www.screencast.com/t/filtIQrjgf
+	ai khane color white dicho. tai amar section a problem hoye geche. tomar color white lagle parent section dhore ai class ta bolte paro white
+
+3. https://www.screencast.com/t/ZFfmQoLwv80
+	link hobe
+
+4. https://www.screencast.com/t/YntVxNSb
+	ai section a plr 10 missing
+
+5. https://www.screencast.com/t/rqGxXXy1hSin
+	text break gulo dekhe hobe aktu valo kore
+
+6. https://www.screencast.com/t/UO2ZqXRKW
+	ai header ar bg ta amar section thake idea nite paro. 
+	ami solid bg use korchi r nicher wave img ta crop kore user korchi. 
+	
+7. https://www.screencast.com/t/vIEwkwxA
+	i) aikhane kono font ar light italic font use korle milbe maybe
+
+	ii) https://www.screencast.com/t/Zje8xKM6o36P
+	aikhane onpen snas light italic font use korle milte pare. try kore dekhte hobe konta mile
+
+	testi ar sob font gulo try kore dekhte hobe. age open sans diye dekhte paro
+	https://www.screencast.com/t/JmfZwW7sEFAz
+
+
+
+7. Desktop fix ses hole responsive dekhba
+
+
+Responsive
+---------------
+1. 
+
+
