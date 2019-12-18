@@ -50,7 +50,8 @@ ager 1 no fix
 	line-height point a daw . line-height: 1.2
 5. https://www.screencast.com/t/DBVlF2pn
 	i) ata aivabe manage korle otota bujay jayna j crop hoiche.
-	ii) ai same ta kore bottom wave positon jsut bolte hobe center bottom,
+	ii) ai same ta kore bottom wave positon jsut bolte hobe center bottom.
+	jemon ta  korle valo lage, mane buja jabena temon ta korte hobe r ki. ami just idea ta dilam
 
 Responsive
 ---------------
