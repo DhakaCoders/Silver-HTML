@@ -5,37 +5,65 @@
 	joto 'Sliver Gel' branding ai text ta ache amon dite hobe. tahole break hobena ai 2 ta word.
 
 2. https://www.screencast.com/t/filtIQrjgf
-	ai khane color white dicho. tai amar section a problem hoye geche. tomar color white lagle parent section dhore ai class ta bolte paro white
+	ai khane color white dicho. tai amar section a problem hoye geche. tomar color white lagle parent section dhore ai class ta bolte paro white ------done
 
 3. https://www.screencast.com/t/ZFfmQoLwv80
-	link hobe
+	link hobe -----done
 
 4. https://www.screencast.com/t/YntVxNSb
-	ai section a plr 10 missing
+	ai section a plr 10 missing -------done
 
 5. https://www.screencast.com/t/rqGxXXy1hSin
-	text break gulo dekhe hobe aktu valo kore
+	text break gulo dekhte hobe aktu valo kore ------done
 
 6. https://www.screencast.com/t/UO2ZqXRKW
 	ai header ar bg ta amar section thake idea nite paro. 
-	ami solid bg use korchi r nicher wave img ta crop kore user korchi. 
+	ami solid bg use korchi r nicher wave img ta crop kore user korchi. ------done
 
 7. https://www.screencast.com/t/vIEwkwxA
-	i) aikhane kono font ar light italic font use korle milbe maybe
+	i) aikhane kono font ar light italic font use korle milbe maybe  ------done
 
 	ii) https://www.screencast.com/t/Zje8xKM6o36P
-	aikhane onpen snas light italic font use korle milte pare. try kore dekhte hobe konta mile
+	aikhane onpen snas light italic font use korle milte pare. try kore dekhte hobe konta mile  ------done
 
 	testi ar sob font gulo try kore dekhte hobe. age open sans diye dekhte paro
-	https://www.screencast.com/t/JmfZwW7sEFAz
+	https://www.screencast.com/t/JmfZwW7sEFAz ------done
 
 
 
-8. Desktop fix ses hole responsive tane dekhba
 
+New
+---------
+ager 1 no fix 
+	https://www.screencast.com/t/yFKm6JBCtw
+	i) ai css gulo korte hobena. just class ta diye dite hobe.amar css thake peye jabe.
+	ii) 'Sliver Gel' ar joto text ache sob jaygay dite hobe
+1. https://www.screencast.com/t/s5RUlQ4yjn
+	i) font-size choto hobe
+	ii) left a space hobe
+2. https://www.screencast.com/t/4Lu56aMpd4G
+	atate hover effect daw akta. opacity kom dite paro
+3. https://www.screencast.com/t/CKXT21OQYFQ
+	Font size ata daw
+
+4. https://www.screencast.com/t/jSb53rFuvn
+	line-height point a daw . line-height: 1.2
 
 Responsive
 ---------------
-1. 
+1. https://www.screencast.com/t/ROjWkinHiM
+	bg ta chapa chapi hoye jasche 100% 100% deoa jabena. cover dite paro
+
+2. https://www.screencast.com/t/1N2UGJI3sQ
+	575px a font size 23 daw
+
+3. https://www.screencast.com/t/MfeTezqPdN7q
+	sob heading ar line height point a thakbe. besi lagle besi point dite hobe.
+	tahole font size ta komale dimention aujayi thik thakbe
+
+4. https://www.screencast.com/t/EBAjO1gReko
+   https://www.screencast.com/t/TvBWlsCftN
+	heading responsive korai ache, tumi common.css a koma dite hobe just.
+
 
 
