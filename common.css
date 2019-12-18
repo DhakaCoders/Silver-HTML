@@ -286,7 +286,9 @@ h4 {
     h1,.fl-pkg-transparent-hdr h1 {
       font-size: 40px;
     }
-    h2,.fl-offering-sec-hdr h2 {
+    h2,
+    .out-stock-btm-head h2,
+    .fl-offering-sec-hdr h2 {
       font-size: 35px;
     }
     h3 {
@@ -306,7 +308,9 @@ h4 {
     h1,.fl-pkg-transparent-hdr h1 {
       font-size: 35px;
     }
-    h2,.fl-offering-sec-hdr h2 {
+    h2,
+    .out-stock-btm-head h2,
+    .fl-offering-sec-hdr h2 {
       font-size: 30px;
     }
     h3 {
@@ -337,7 +341,9 @@ h4 {
     h1,.fl-pkg-transparent-hdr h1 {
       font-size: 32px;
     }
-    h2,.fl-offering-sec-hdr h2 {
+    h2,
+    .out-stock-btm-head h2,
+    .fl-offering-sec-hdr h2 {
       font-size: 28px;
     }
     h3 {
