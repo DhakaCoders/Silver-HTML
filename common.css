@@ -5,7 +5,8 @@
   font-weight: normal;
   font-style: normal;
   font-display: swap; 
-} 
+}  
+ 
 @font-face {
   font-family: 'Montserrat-Medium';
   src: url('assets/fonts/Montserrat-Medium/montserrat-medium-webfont.woff2') format('woff2'),
