@@ -73,9 +73,10 @@
     line-height: 28px;
     color: #fff;
 }
-.health-risks-dsc span{
+.health-risks-dsc a{
 	display: inline-block;
 	vertical-align: baseline;
+	text-decoration: none;
 	text-decoration: none;
 	font-size: 25px;
 	line-height: 27px;
@@ -102,8 +103,19 @@
 	vertical-align: baseline;
 	color: #f15927;
 }
-.plus-our-dsc{
-	padding-top: 5px;
+.plus-our-dsc {
+    padding-top: 5px;
+    padding-right: 10px;
+}
+.hdr-btm-wave-img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -1px;
+    z-index: 1;
+    height: 10px;
+    background-position: center bottom!important;
+    background-repeat: repeat-x!important;
 }
 
 
@@ -112,11 +124,9 @@
 }
 .profile-show-headding{
     padding: 30px 15px 25px;
-    background-repeat: no-repeat !important;
-    background-size: 100% 100% !important;
-    background-position: center bottom !important;
     margin-left: -25px;
     margin-right: -25px;
+    position: relative;
 }
 .profile-show-headding h2{
 	margin: 0;
@@ -139,7 +149,10 @@
 	border-bottom: 0;
 }
 .profile-show-inr {
-    padding: 30px 90px 35px 0;
+    padding: 30px 60px 35px 0;
+}
+.profile-show-wrp ul li:nth-child(2) .profile-show-inr{
+	padding-right: 50px;
 }
 .profile-dsc{
     padding-left: 100px;
@@ -151,7 +164,7 @@
 .profile-dsc h3{
 	margin: 0;
 	color: #004d8d;
-	font-family: 'Merriweather-Black';
+	font-family: 'OpenSansBold';
 	font-size: 22px;
 	line-height: 24px;
 }
@@ -160,7 +173,7 @@
     font-size: 20px;
     line-height: 22px;
     color: #252525;
-    font-family: 'Montserrat-Bold';
+    font-family: 'OpenSansBold';
     margin-bottom: 5px;
     margin-top: 5px;
 }
@@ -168,20 +181,21 @@
 	display: inline-block;
 	vertical-align: baseline;
 	color: #bebebe;
+	font-family: 'OpenSansItalic';
 }
 .profile-show-inr blockquote {
     padding: 0;
     margin: 0;
     border-left: 0;
-    font-size: 22px;
+    font-size: 21px;
     line-height: 24px;
     padding-top: 5px;
     color: #4c4c4c;
-    font-family: 'MontserratItalic';
+    font-family: 'OpenSansItalic';
     font-style: italic;
 }
 
-.out-stock-sec {
+.sl-out-stock-sec {
     position: relative;
     padding-top: 65px;
     padding-bottom: 20px;
@@ -202,7 +216,7 @@
 	color: #ff8003;
 	padding-top: 20px;
 }
-.dft-text-module{
+.sl-out-stock-sec .dft-text-module{
 	color: #fff;
 }
 .out-stock-btm-head h2{
@@ -222,6 +236,20 @@
     color: #fff;
     padding-top: 20px;
 }
+.sl-out-stock-sec .out-stock-sec-hdr mark.brading-txt,
+.profile-show-headding mark.brading-txt,
+.plus-our-head mark.brading-txt,
+.fl-health-risks-head mark.brading-txt {
+    display: inline-block;
+    vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    color: #fff;
+}
+.plus-our-head mark.brading-txt{
+	color: #f15927;
+}
 
 /*----- max-width 1199px -----*/
 @media(max-width: 1199px){
@@ -238,12 +266,18 @@
 	    width: 100%;
 	    max-width: 310px;
 	}
-	.profile-show-inr {
-	    padding: 30px 70px 35px 0;
-	}
 	.out-stock-btm-head h2{
 		font-size: 35px;
 		line-height: 37px;
+	}
+	.profile-show-inr {
+	    padding: 30px 40px 35px 0;
+	}
+	.profile-show-wrp ul li:nth-child(2) .profile-show-inr {
+	    padding-right: 40px;
+	}
+	.profile-show-inr blockquote br{
+		display: none;
 	}
 
 }
@@ -267,12 +301,15 @@
 	.out-stock-sec-hdr h2 br{
 		display: none;
 	}
-	.profile-show-inr {
-	    padding: 30px 50px 35px 0;
-	}
 	.out-stock-btm-head h2{
 		font-size: 32px;
 		line-height: 34px;
+	}
+	.profile-show-inr {
+	    padding: 30px 20px 35px 0;
+	}
+	.profile-show-wrp ul li:nth-child(2) .profile-show-inr {
+	    padding-right: 20px;
 	}
 }
 
@@ -297,6 +334,9 @@
 	}
 	.profile-show-inr {
 	    padding: 30px 10px 35px 0;
+	}
+	.profile-show-wrp ul li:nth-child(2) .profile-show-inr {
+	    padding-right: 10px;
 	}
 	.profile-dsc {
 	    padding-left: 80px;
@@ -335,6 +375,9 @@
 	}
 	.profile-show-inr {
 	    padding: 20px 0px 20px 0;
+	}
+	.profile-show-wrp ul li:nth-child(2) .profile-show-inr {
+	    padding-right: 0;
 	}
 	.profile-show-inr blockquote{
 		font-size: 18px;

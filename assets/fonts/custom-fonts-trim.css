@@ -113,6 +113,14 @@
   font-style: normal;
   font-display: swap;
 }
+@font-face {
+  font-family: 'OpenSansSemibold';
+  src: url('assets/fonts/OpenSansItalic/OpenSansItalic.woff2') format('woff2'),
+    url('assets/fonts/OpenSansItalic/OpenSansItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
 
 
