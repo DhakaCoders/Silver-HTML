@@ -486,6 +486,9 @@ mark.brading-txt{
         text-align: center;
         padding-bottom: 30px;
     }
+    p br{
+        display: none;
+    }
 }
 
 

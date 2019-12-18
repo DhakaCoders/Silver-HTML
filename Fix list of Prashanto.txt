@@ -1,0 +1,25 @@
+1. https://www.screencast.com/t/cRe1YTdI4n
+	bold hobe
+2. https://www.screencast.com/t/QElczTJYOcc2
+	font-family mileni
+3. https://www.screencast.com/t/ychagHIOYNOR
+	i) gap hobena.
+	ii) ai header ar design ta amar section thake dekhe nao. ami just nicher img ta use korchi. r bg ta img na diye solid dichi
+4. https://www.screencast.com/t/filtIQrjgf
+	ai khane color white dicho. tai amar section a problem hoye geche. tomar color white lagle parent section dhore ai class ta bolte paro white
+5. https://www.screencast.com/t/gDxh09Ap
+	branding text ar jonno amr section thake dekhe nite paro. 
+
+	https://www.screencast.com/t/UwdCjUJr
+	joto 'Sliver Gel' branding ai text ta ache amon dite hobe. tahole break hobena ai 2 ta word.
+6. https://www.screencast.com/t/2tQRgyc2u17
+	ai text ta client italic chai. 
+
+7. Desktop fix ses hole responsive dekhba
+
+
+Responsive
+---------------
+1. 
+
+
