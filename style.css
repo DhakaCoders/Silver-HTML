@@ -628,6 +628,8 @@ span.fl-txt-line-bg{
 }
 .profile-show-wrp{
   padding-top: 20px;
+  padding-left: 90px;
+  padding-right: 90px;
 }
 .profile-show-wrp ul li{
     border-bottom: 2px solid #d8d8d8;
@@ -641,30 +643,30 @@ span.fl-txt-line-bg{
   border-bottom: 0;
 }
 .profile-show-inr {
-    padding: 30px 105px 35px 0;
+    padding: 30px 17px 35px 0;
 }
 .profile-show-wrp ul li:nth-child(2) .profile-show-inr {
-    padding-right: 75px;
+    padding-right: 17px;
 }
 .profile-dsc{
     padding-left: 100px;
     background-repeat: no-repeat;
-    background-position: left 5px top;
+    background-position: 2px 5px;
     background-size: 84px 84px;
     padding-top: 8px;
 }
 .profile-dsc h3{
   margin: 0;
-  color: #004d8d;
+  color: #044c88;
   font-family: 'OpenSansBold';
   font-size: 22px;
   line-height: 1.2;
 }
 .profile-dsc h5{
     margin: 0;
-    font-size: 20px;
-    line-height: 22px;
-    color: #252525;
+    font-size: 18px;
+    line-height: 20px;
+    color: #232323;
     font-family: 'OpenSansBold';
     margin-bottom: 5px;
     margin-top: 5px;
@@ -672,18 +674,18 @@ span.fl-txt-line-bg{
 .profile-dsc h5 em{
   display: inline-block;
   vertical-align: baseline;
-  color: #bebebe;
+  color: #a8a8a8;
   font-family: 'OpenSansItalic';
-  font-size: 16px;
+  font-size: 14px;
 }
 .profile-show-inr blockquote {
     padding: 0;
     margin: 0;
     border-left: 0;
-    font-size: 20px;
-    line-height: 24px;
-    padding-top: 5px;
-    color: #4c4c4c;
+    font-size: 18px;
+    line-height: 23px;
+    padding-top: 8px;
+    color: #4d4d4d;
     font-family: 'OpenSansItalic';
     font-style: italic;
 }
@@ -741,7 +743,6 @@ span.fl-txt-line-bg{
 .fl-health-risks-head mark.brading-txt {
     color: #fff;
 }
-.sl-out-stock-sec .out-stock-btm-head mark.brading-txt,
 .plus-our-head mark.brading-txt{
   color: #f15927;
 }
@@ -877,6 +878,7 @@ mark.brading-txt{
     margin: 0;
     padding: 0;
     background: transparent;
+    color: inherit;
 }
 .fl-pkg-transparent-hdr h1 span{
     display: block;
@@ -1424,6 +1426,10 @@ mark.brading-txt{
     .fl-pkg-section-1 .fl-pkg-transparent-hdr h1 {
         padding-bottom: 60px;
     }
+    .profile-show-wrp {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
 }
 
 @media (max-width:830px){
@@ -1609,6 +1615,10 @@ mark.brading-txt{
     }
     .fl-pkg-section-1 .fl-pkg-transparent-hdr h1 {
         padding-bottom: 40px;
+    }
+    .profile-show-wrp{
+      padding-left: 0;
+      padding-right: 0;
     }
 }
 
