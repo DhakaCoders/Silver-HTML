@@ -2,7 +2,7 @@
 	branding text ar jonno amr section thake dekhe nite paro. 
 
 	https://www.screencast.com/t/UwdCjUJr
-	joto 'Sliver Gel' branding ai text ta ache amon dite hobe. tahole break hobena ai 2 ta word.
+	joto 'Sliver Gel' branding ai text ta ache amon dite hobe. tahole break hobena ai 2 ta word.----done
 
 2. https://www.screencast.com/t/filtIQrjgf
 	ai khane color white dicho. tai amar section a problem hoye geche. tomar color white lagle parent section dhore ai class ta bolte paro white ------done
@@ -37,7 +37,7 @@ New
 ager 1 no fix 
 	https://www.screencast.com/t/yFKm6JBCtw
 	i) ai css gulo korte hobena. just class ta diye dite hobe.amar css thake peye jabe.
-	ii) 'Sliver Gel' ar joto text ache sob jaygay dite hobe
+	ii) 'Sliver Gel' ar joto text ache sob jaygay dite hobe---done
 1. https://www.screencast.com/t/s5RUlQ4yjn
 	i) font-size choto hobe
 	ii) left a space hobe
