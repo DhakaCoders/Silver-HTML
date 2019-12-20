@@ -1615,6 +1615,7 @@ mark.brading-txt{
     }
     .fl-pkg-section-1 .fl-pkg-transparent-hdr h1 {
         padding-bottom: 40px;
+        font-size: 26px
     }
     .profile-show-wrp{
       padding-left: 0;
@@ -1660,6 +1661,9 @@ mark.brading-txt{
     }
     .fl-footer-wrap{
         padding: 45px 0 55px;
+    }
+    .fl-pkg-section-1 .fl-pkg-transparent-hdr h1 {
+        font-size: 25px
     }
 }
 
